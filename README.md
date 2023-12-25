@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sjajagithub
+- 👀 I’m interested in becoming a developer
+- 🌱 I’m currently learning how to create websites
